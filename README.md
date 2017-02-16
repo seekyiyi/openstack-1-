@@ -83,7 +83,7 @@ Glance套件提供了硬碟或伺服器的Image尋找、註冊以及服務交付
 類似 Amazon AWS 的 VM Import／Export。
 
 - Keystone 身分識別套件 (Identity service)
-https://farm8.staticflickr.com/7696/17797228942_a2b4de7e05_z.jpg
+![openstack](https://farm8.staticflickr.com/7696/17797228942_a2b4de7e05_z.jpg)
 Keystone套件作為OpenStack的身份驗證服務，具有中央目錄能查看哪位使用者可存取哪些服務，並且提供了多種驗證方式，包括使用者帳號密碼、Token以及類似AWS的登入機制。另外，Keystone可以整合現有的中央控管系統，像是LDAP（輕型目錄訪問協議）。
 
 類似 Amazon AWS 的 IAM。
