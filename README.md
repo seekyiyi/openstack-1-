@@ -29,7 +29,8 @@ Horizon：為OpenStack 用戶提供一個Web 的自服務Portal。
 
 - Nova 運算套件 (Compute) 架構圖
 
-![openstack](https://farm6.staticflickr.com/5449/17177502064_796c4331ac_z.jpg）
+![openstack](https://farm6.staticflickr.com/5449/17177502064_796c4331ac_z.jpg)
+
 運算套件Nova：提供部署與管理虛擬機器的功能。
 
 Nova 主要擔任著部署與管理虛擬機角色。
