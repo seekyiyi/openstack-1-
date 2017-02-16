@@ -28,6 +28,7 @@ Horizon：為OpenStack 用戶提供一個Web 的自服務Portal。
 ![openstack](https://farm6.staticflickr.com/5456/17612175358_ce88a63db0_z.jpg)
 
 - Nova 運算套件 (Compute) 架構圖
+
 ![openstack](https://farm6.staticflickr.com/5449/17177502064_796c4331ac_z.jpg）
 運算套件Nova：提供部署與管理虛擬機器的功能。
 
@@ -38,6 +39,7 @@ Nova提供了一套API來開發額外的應用程式，IT人員可以透過網�
 
 
 - Swift 物件儲存套件 (Object Storage) 架構圖
+
 ![openstack](https://farm9.staticflickr.com/8864/17179640403_fd10cca4d2_z.jpg)
 物件儲存套件Swift：是個分散式儲存平臺，可存放非結構化的資料
 
@@ -51,6 +53,7 @@ Swift套件提供可擴展的分散式儲存平臺，以防止單點故障的情
 類似 Amazon AWS 的 S3。
 
 - Cinder 區塊儲存套件 (Block Storage) 架構圖
+
 ![openstack](https://farm6.staticflickr.com/5455/17179630023_a20295be35_z.jpg)
 區塊儲存套件Cinder：提供區塊儲存容量，具有快照功能
 
@@ -62,9 +65,11 @@ Cinder套件並提供快照管理功能，可保護虛擬機器上的資料，�
 
 - Quantum 架構圖
 網通套件Quantum：透過API來管理的網路架構系統，支援多家網通廠商技術
+
 ![openstack](https://farm9.staticflickr.com/8833/17797234232_ca85a1f6ba_z.jpg)
 
 - Keystone 架構圖
+
 ![openstack](https://farm8.staticflickr.com/7744/17800436291_c90789162c_z.jpg)
 
 身分識別套件Keystone：提供了多種驗證方式，能查看哪位使用者可存取哪些服務
@@ -74,6 +79,7 @@ Keystone套件作為OpenStack的身份驗證服務，具有中央目錄能查看
 類似 Amazon AWS 的 IAM。
 
 - Glance 架構圖
+
 ![openstack](https://farm8.staticflickr.com/7737/17800436561_c3c59d0911_z.jpg)
 映象檔管理套件Glance：提供映象檔尋找、註冊以及服務交付等功能
 
@@ -83,10 +89,12 @@ Glance套件提供了硬碟或伺服器的Image尋找、註冊以及服務交付
 類似 Amazon AWS 的 VM Import／Export。
 
 - Keystone 身分識別套件 (Identity service)
+
 ![openstack](https://farm8.staticflickr.com/7696/17797228942_a2b4de7e05_z.jpg)
 Keystone套件作為OpenStack的身份驗證服務，具有中央目錄能查看哪位使用者可存取哪些服務，並且提供了多種驗證方式，包括使用者帳號密碼、Token以及類似AWS的登入機制。另外，Keystone可以整合現有的中央控管系統，像是LDAP（輕型目錄訪問協議）。
 
 類似 Amazon AWS 的 IAM。
+
 # Nova 創建虛擬機器流程
 這個流程就在解釋著在Openstack建立一個虛擬機器所需的步驟
 http://ilearnstack.com/2013/04/26/request-flow-for-provisioning-instance-in-openstack/comment-page-1/
