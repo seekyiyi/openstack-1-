@@ -7,4 +7,4 @@ OpenStack是IaaS（基礎設施即服務）軟體，讓任何人都可以自行�
 
 ## OpenStack Conceptual Architecture
 
-[openstack]!(http://7xo6kd.com1.z0.glb.clouddn.com/upload-ueditor-image-20160331-1459396288164018195.jpg)
+(openstack!)[http://7xo6kd.com1.z0.glb.clouddn.com/upload-ueditor-image-20160331-1459396288164018195.jpg]
